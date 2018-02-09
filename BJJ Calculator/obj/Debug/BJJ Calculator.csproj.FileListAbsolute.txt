@@ -1,0 +1,13 @@
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\bin\Debug\BJJ Calculator.exe.config
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\bin\Debug\BJJ Calculator.exe
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\bin\Debug\BJJ Calculator.pdb
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.csprojResolveAssemblyReference.cache
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ_Calculator.Properties.Resources.resources
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.csproj.GenerateResource.Cache
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.csproj.CoreCompileInputs.cache
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.exe
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.pdb
+c:\users\denman\source\repos\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ_Calculator.Calculator.resources
+C:\Users\Denman\Documents\Education\MSSA\simple apps\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Denman\Documents\Education\MSSA\simple apps\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.exe
+C:\Users\Denman\Documents\Education\MSSA\simple apps\BJJ Calculator\BJJ Calculator\obj\Debug\BJJ Calculator.pdb
